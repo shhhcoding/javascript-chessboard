@@ -36,7 +36,6 @@ const CHESS_PIECES = {
 };
 
 let chessBoardDiv = document.querySelector(".chess-board");
-let lettersDiv = document.querySelector(".letters");
 
 for (let i = 0; i < NUMBERS.length; i++) {
   let rowDiv = document.createElement("div");
