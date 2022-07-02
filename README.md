@@ -1,10 +1,9 @@
 ## JavaScript Chessboard
-
-This project was developed with HTML,CSS and JavaScript
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=PILJsbq0zhs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+</p>
 
 <img src="/chessboard.PNG" width="350" height="400">
-
-### Get started
 
 ### Clone the repo
 
